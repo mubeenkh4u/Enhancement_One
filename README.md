@@ -1,4 +1,4 @@
-# Software Design and Engineering Enhancement Narrative
+# Enhancement One - Software Design and Engineering Enhancement Narrative
 
 ## Overview of the Artifact
 The artifact selected for this enhancement is the `animal_shelter.py` module, originally created in the CS-340 course as part of a Dash and Jupyter Notebook dashboard application. This Python-based CRUD module interacts with a MongoDB dataset of shelter animals. The enhanced version preserves the original public API while introducing professional engineering features, including detailed docstrings, type hints, centralized logging, and environment-driven configuration.
